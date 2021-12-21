@@ -2,6 +2,15 @@
 	"Heo": {
 		"type": "image",
 		"container": [{
+                       "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/波吉.png\">",
+                       "text": "heo-波吉"
+                }, {
+                        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/惬意.png\">",
+                        "text": "heo-惬意"
+                }, {
+                        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/没招.png\">",
+                        "text": "heo-没招"
+                }, {
 			"icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/害羞.png\">",
 			"text": "heo-害羞"
 		}, {
@@ -268,6 +277,15 @@
 		}, {
 			"icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/猪头.png\">",
 			"text": "heo-猪头"
+		}, {
+                        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/猪头意外.png\">",
+                        "text": "heo-猪头意外"
+                }, {
+                        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/恶魔.png\">",
+                        "text": "heo-恶魔"
+                }, {
+                       "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/恶魔恐惧.png\">",
+                       "text": "heo-恶魔恐惧" 
 		}, {
 			"icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/LPL.png\">",
 			"text": "heo-LPL"
